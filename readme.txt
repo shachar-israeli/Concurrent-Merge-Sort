@@ -1,7 +1,8 @@
 
-This software is divided into 2 assignments:
+This software is divided into 3 assignments:
 assignment 1: a Concurrent merge sort using shared memory
 assignment 2: a Concurrent merge sort using sockets
+assignment 2: a Concurrent merge sort using threads
 
 
 
@@ -150,7 +151,6 @@ int main(int argc, char* argv[]) command:
 input: char* argv[] - the arguments, int argc - number of argument
 output: concurrent merge sort that has been fully tested with valgrind to test for memory
 leak, no leak was found.
-
 
 
 good luck and i hope all is good,
