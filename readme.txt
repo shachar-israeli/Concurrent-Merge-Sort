@@ -1,9 +1,3 @@
-israelish
-203713094
-Shachar Israeli
-
-########################################################
-
 
 This software is divided into 2 assignments:
 assignment 1: a Concurrent merge sort using shared memory
